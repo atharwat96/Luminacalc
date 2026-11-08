@@ -1,0 +1,6 @@
+{
+  "name": "LuminaCalc - Fancy Lights & Sound Calculator",
+  "description": "An ordinary calculator supercharged with radiant reactive lights, synthesized dynamic sound effects, processing laser animations, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
